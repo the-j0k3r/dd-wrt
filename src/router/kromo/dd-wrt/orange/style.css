@@ -1,5 +1,9 @@
 @import url(../common.css);
 /*! Orange */
+::selection {
+  background: #f26522;
+  color: #fff;
+}
 #menuSub, #menuMainList li span, #help h2 {
   background: #f26522;
   color: #fff;

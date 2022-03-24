@@ -1,5 +1,9 @@
 @import url(../common.css);
 /*! Red */
+::selection {
+  background: #c00;
+  color: #fff;
+}
 #menuSub, #menuMainList li span, #help h2 {
   background: #c00;
   color: #fff;

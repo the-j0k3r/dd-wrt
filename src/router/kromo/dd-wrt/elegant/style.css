@@ -1,5 +1,9 @@
 @import url(../common.css);
 /*! Elegant */
+::selection {
+  background: #30519c;
+  color: #fff;
+}
 #menuSub, #menuMainList li span, #help h2 {
   background: #30519c;
   color: #fff;
